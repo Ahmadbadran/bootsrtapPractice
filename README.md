@@ -1,7 +1,7 @@
 # bootsrtapPractice
 
 ## Website ScreenShot
-![ScreenShot](/home/ahmad/bootsrtapPractice/screencapture-localhost-5500-2023-03-08-18_36_55.png)
+![ScreenShot](/screencapture-localhost-5500-2023-03-08-18_36_55.png)
 
 ## technologies i used to do this website
 
